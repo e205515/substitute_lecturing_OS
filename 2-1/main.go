@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fileWrite/fileWrite"
+	"fileWtite/fileWrite"
 	"fmt"
 )
 
