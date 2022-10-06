@@ -1,11 +1,10 @@
 package main
 
 import (
+	"fileWrite/fileWrite"
 	"fmt"
-
-	"github.com/e205515/fileWrite/fileWrite"
 )
 
 func main() {
-	fmt.Println(fileWrite.Hello("Yoshisaur"))
+	fmt.Println(fileWrite.Hello("TOMOKI"))
 }
