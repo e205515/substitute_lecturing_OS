@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fileWtite/fileWrite"
 	"fmt"
+	"main/fileWrite"
 )
 
 func main() {
