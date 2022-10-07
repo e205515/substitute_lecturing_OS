@@ -1,0 +1,219 @@
+[2022-10-06 15:44:04Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO HostContext] Well known config file 'Credentials': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO HostContext] Well known config file 'Runner': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.runner'
+[2022-10-06 15:44:04Z INFO Listener] Runner is built for OSX (Arm64) - osx-arm64.
+[2022-10-06 15:44:04Z INFO Listener] RuntimeInformation: Darwin 21.6.0 Darwin Kernel Version 21.6.0: Wed Aug 10 14:28:35 PDT 2022; root:xnu-8020.141.5~2/RELEASE_ARM64_T8101.
+[2022-10-06 15:44:04Z INFO Listener] Version: 2.298.2
+[2022-10-06 15:44:04Z INFO Listener] Commit: f49f0247c8f15ef51086a7c2405333cb91c6f3cd
+[2022-10-06 15:44:04Z INFO Listener] Culture: ja-JP
+[2022-10-06 15:44:04Z INFO Listener] UI Culture: ja-JP
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO Listener] Validating directory permissions for: '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO CommandLineParser] Parse
+[2022-10-06 15:44:04Z INFO CommandLineParser] Parsing 5 args
+[2022-10-06 15:44:04Z INFO CommandLineParser] parsing argument
+[2022-10-06 15:44:04Z INFO CommandLineParser] HasArgs: False
+[2022-10-06 15:44:04Z INFO CommandLineParser] Adding Command: configure
+[2022-10-06 15:44:04Z INFO CommandLineParser] parsing argument
+[2022-10-06 15:44:04Z INFO CommandLineParser] HasArgs: True
+[2022-10-06 15:44:04Z INFO CommandLineParser] arg: url
+[2022-10-06 15:44:04Z INFO CommandLineParser] parsing argument
+[2022-10-06 15:44:04Z INFO CommandLineParser] HasArgs: True
+[2022-10-06 15:44:04Z INFO CommandLineParser] Adding option 'url': 'https://github.com/e205515/substitute_lecturing_OS'
+[2022-10-06 15:44:04Z INFO CommandLineParser] parsing argument
+[2022-10-06 15:44:04Z INFO CommandLineParser] HasArgs: True
+[2022-10-06 15:44:04Z INFO CommandLineParser] arg: token
+[2022-10-06 15:44:04Z INFO CommandLineParser] parsing argument
+[2022-10-06 15:44:04Z INFO CommandLineParser] HasArgs: True
+[2022-10-06 15:44:04Z INFO CommandLineParser] Adding option 'token': '***'
+[2022-10-06 15:44:04Z INFO Listener] Arguments parsed
+[2022-10-06 15:44:04Z INFO Runner] ExecuteCommand
+[2022-10-06 15:44:04Z INFO ConfigurationStore] currentAssemblyLocation: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin/Runner.Listener.dll
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO ConfigurationStore] binPath: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO ConfigurationStore] RootFolder: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO HostContext] Well known config file 'Runner': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.runner'
+[2022-10-06 15:44:04Z INFO ConfigurationStore] ConfigFilePath: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.runner
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO HostContext] Well known config file 'Credentials': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials'
+[2022-10-06 15:44:04Z INFO ConfigurationStore] CredFilePath: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO HostContext] Well known config file 'MigratedCredentials': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_migrated'
+[2022-10-06 15:44:04Z INFO ConfigurationStore] MigratedCredFilePath: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_migrated
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:04Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:04Z INFO HostContext] Well known config file 'Service': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.service'
+[2022-10-06 15:44:04Z INFO ConfigurationStore] ServiceConfigFilePath: /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.service
+[2022-10-06 15:44:04Z INFO CommandSettings] Flag 'help': 'False'
+[2022-10-06 15:44:04Z INFO CommandSettings] Flag 'version': 'False'
+[2022-10-06 15:44:04Z INFO CommandSettings] Flag 'commit': 'False'
+[2022-10-06 15:44:04Z INFO CommandSettings] Flag 'check': 'False'
+[2022-10-06 15:44:05Z INFO CommandSettings] Command 'configure': 'True'
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE: |                       
+[2022-10-06 15:44:05Z INFO Terminal] WRITE: Self-hosted runner registration
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE:                         |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: |                                                                              |
+[2022-10-06 15:44:05Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2022-10-06 15:44:05Z INFO ConfigurationManager] ConfigureAsync
+[2022-10-06 15:44:05Z INFO ConfigurationStore] IsConfigured()
+[2022-10-06 15:44:05Z INFO ConfigurationStore] IsConfigured: False
+[2022-10-06 15:44:05Z INFO ConfigurationManager] Is configured: False
+[2022-10-06 15:44:05Z INFO CommandSettings] Arg 'url': 'https://github.com/e205515/substitute_lecturing_OS'
+[2022-10-06 15:44:05Z INFO CommandSettings] Remove url from Arg dictionary.
+[2022-10-06 15:44:05Z INFO CommandSettings] Arg 'token': '***'
+[2022-10-06 15:44:05Z INFO CommandSettings] Remove token from Arg dictionary.
+[2022-10-06 15:44:06Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2022-10-06 15:44:06Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2022-10-06 15:44:06Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-10-06 15:44:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-10-06 15:44:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-10-06 15:44:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-10-06 15:44:06Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-10-06 15:44:06Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-10-06 15:44:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-10-06 15:44:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-10-06 15:44:07Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-10-06 15:44:07Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:07Z INFO ConfigurationManager] Test Connection complete.
+[2022-10-06 15:44:07Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:07Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:07Z INFO HostContext] Well known config file 'RSACredentials': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams'
+[2022-10-06 15:44:07Z INFO RSAFileKeyManager] Creating new RSA key using 2048-bit key length
+[2022-10-06 15:44:07Z INFO RSAFileKeyManager] Successfully saved RSA key parameters to file /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams
+[2022-10-06 15:44:07Z INFO RSAFileKeyManager] Which: 'chmod'
+[2022-10-06 15:44:07Z INFO RSAFileKeyManager] Location: '/bin/chmod'
+[2022-10-06 15:44:07Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:07Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper] Starting process:
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Arguments: '600 /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Working directory: '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper] Process started with process id 14872, waiting for process exit.
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-10-06 15:44:07Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-10-06 15:44:08Z INFO ProcessInvokerWrapper] Finished process 14872 with exit code 0, and elapsed time 00:00:00.0639484.
+[2022-10-06 15:44:08Z INFO RSAFileKeyManager] Successfully set permissions for RSA key parameters file /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams
+[2022-10-06 15:44:08Z INFO CommandSettings] Arg 'runnergroup': ''
+[2022-10-06 15:44:08Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-10-06 15:44:08Z INFO PromptManager] ReadValue
+[2022-10-06 15:44:08Z INFO Terminal] WRITE: Enter the name of the runner group to add this runner to: 
+[2022-10-06 15:44:08Z INFO Terminal] WRITE: [press Enter for Default] 
+[2022-10-06 15:44:08Z INFO Terminal] READ LINE
+[2022-10-06 15:44:11Z INFO Terminal] Read value: ''
+[2022-10-06 15:44:11Z INFO PromptManager] Falling back to the default: 'Default'
+[2022-10-06 15:44:11Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:11Z INFO ConfigurationManager] Found a self-hosted runner group with id 1 and name Default
+[2022-10-06 15:44:11Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-10-06 15:44:11Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-10-06 15:44:11Z INFO CommandSettings] Arg 'name': ''
+[2022-10-06 15:44:11Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-10-06 15:44:11Z INFO PromptManager] ReadValue
+[2022-10-06 15:44:11Z INFO Terminal] WRITE: Enter the name of runner: 
+[2022-10-06 15:44:11Z INFO Terminal] WRITE: [press Enter for piman] 
+[2022-10-06 15:44:11Z INFO Terminal] READ LINE
+[2022-10-06 15:44:12Z INFO Terminal] Read value: ''
+[2022-10-06 15:44:12Z INFO PromptManager] Falling back to the default: 'piman'
+[2022-10-06 15:44:12Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:12Z INFO CommandSettings] Arg 'labels': ''
+[2022-10-06 15:44:12Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-10-06 15:44:12Z INFO PromptManager] ReadValue
+[2022-10-06 15:44:12Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'macOS', 'ARM64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2022-10-06 15:44:12Z INFO Terminal] WRITE: [press Enter to skip] 
+[2022-10-06 15:44:12Z INFO Terminal] READ LINE
+[2022-10-06 15:44:13Z INFO Terminal] Read value: ''
+[2022-10-06 15:44:13Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:13Z INFO Terminal] WRITE LINE: A runner exists with the same name
+[2022-10-06 15:44:13Z INFO CommandSettings] Flag 'replace': 'False'
+[2022-10-06 15:44:13Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-10-06 15:44:13Z INFO PromptManager] ReadValue
+[2022-10-06 15:44:13Z INFO Terminal] WRITE: Would you like to replace the existing runner? (Y/N) 
+[2022-10-06 15:44:13Z INFO Terminal] WRITE: [press Enter for N] 
+[2022-10-06 15:44:13Z INFO Terminal] READ LINE
+[2022-10-06 15:44:32Z INFO Terminal] Read value: 'Y'
+[2022-10-06 15:44:32Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-10-06 15:44:32Z INFO CommandSettings] Flag 'disableupdate': 'False'
+[2022-10-06 15:44:32Z INFO CommandSettings] Flag 'ephemeral': 'False'
+[2022-10-06 15:44:32Z INFO ConfigurationStore] Saving OAuth credential @ /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials
+[2022-10-06 15:44:32Z INFO ConfigurationStore] Credentials Saved.
+[2022-10-06 15:44:32Z INFO ConfigurationStore] HasCredentials()
+[2022-10-06 15:44:32Z INFO ConfigurationStore] stored True
+[2022-10-06 15:44:32Z INFO CredentialManager] GetCredentialProvider
+[2022-10-06 15:44:32Z INFO CredentialManager] Creating type OAuth
+[2022-10-06 15:44:32Z INFO CredentialManager] Creating credential type: OAuth
+[2022-10-06 15:44:32Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams
+[2022-10-06 15:44:32Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2022-10-06 15:44:32Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-10-06 15:44:32Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-10-06 15:44:32Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-10-06 15:44:32Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2022-10-06 15:44:32Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2022-10-06 15:44:33Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-10-06 15:44:33Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-10-06 15:44:33Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2022-10-06 15:44:34Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams
+[2022-10-06 15:44:34Z INFO RSAFileKeyManager] Loading RSA key parameters from file /Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/.credentials_rsaparams
+[2022-10-06 15:44:35Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2022-10-06 15:44:35Z INFO CommandSettings] Arg 'work': ''
+[2022-10-06 15:44:35Z INFO CommandSettings] Flag 'unattended': 'False'
+[2022-10-06 15:44:35Z INFO PromptManager] ReadValue
+[2022-10-06 15:44:35Z INFO Terminal] WRITE: Enter name of work folder: 
+[2022-10-06 15:44:35Z INFO Terminal] WRITE: [press Enter for _work] 
+[2022-10-06 15:44:35Z INFO Terminal] READ LINE
+[2022-10-06 15:44:38Z INFO Terminal] Read value: ''
+[2022-10-06 15:44:38Z INFO PromptManager] Falling back to the default: '_work'
+[2022-10-06 15:44:38Z INFO ConfigurationStore] Saving runner settings.
+[2022-10-06 15:44:38Z INFO ConfigurationStore] Settings Saved.
+[2022-10-06 15:44:38Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:38Z INFO Terminal] WRITE LINE: 
+[2022-10-06 15:44:38Z INFO OsxServiceControlManager] Service name 'actions.runner.e205515-substitute_lecturing_OS.piman' display name 'GitHub Actions Runner (e205515-substitute_lecturing_OS.piman)' will be used for service configuration.
+[2022-10-06 15:44:38Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:38Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:38Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:38Z INFO HostContext] Well known directory 'Bin': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/bin'
+[2022-10-06 15:44:38Z INFO HostContext] Well known directory 'Root': '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:38Z INFO UnixUtil] Which: 'chmod'
+[2022-10-06 15:44:38Z INFO UnixUtil] Location: '/bin/chmod'
+[2022-10-06 15:44:38Z INFO UnixUtil] Running /bin/chmod 755 "/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/svc.sh"
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper] Starting process:
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   File name: '/bin/chmod'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Arguments: '755 "/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner/svc.sh"'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Working directory: '/Users/chinentomoki/u-ryukyu/Third/OS_again/02/2-1/actions-runner/actions-runner'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Require exit code zero: 'True'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'False'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper]   High priority process: 'False'
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper] Process started with process id 14911, waiting for process exit.
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2022-10-06 15:44:38Z INFO ProcessInvokerWrapper] Finished process 14911 with exit code 0, and elapsed time 00:00:00.0727525.
+[2022-10-06 15:44:38Z INFO Listener] Runner execution has finished with return code 0

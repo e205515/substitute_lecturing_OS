@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "piman",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/ZepRwt9RqlXOuDZhYL8uACNSOJBWkvsh0wjLPuH1TbKjoR6HIQ",
+  "gitHubUrl": "https://github.com/e205515/substitute_lecturing_OS",
+  "workFolder": "_work"
+}
